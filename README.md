@@ -61,7 +61,6 @@ To see how you can add code snippets, see below:
 		grid-area: 1/ 1/ 2/ 3;
 	}
 ```
-```
 
 ### Useful resources
 
